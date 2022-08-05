@@ -11,14 +11,14 @@ pandas v. 1.3.5
 matplotlib v.3.5.1
 
 ## 3. Results 
-![](analysis/fare_sums_by_week.png)
+![](fare_sums_by_week.png)
 Fig 1. Fare sums by week calculated 
 
 The first plot ilustrates the quantity of money made by eahc service in the different type of cities. January was the month with less money all around, it might be
 because the lower temperatures altough it was steady over the time period. 
 Urban city generetaded the most amount of money followed by suburban and the rural locations where the ones that made less money with only April reaching 500 dollars.
 
-![](analysis/Dataframe.png)
+![](Dataframe.png)
 Fig 2. Data Frame summary by city type
 
 As we can see in the summary the total rides where more than double for suburban and more than 10 times for rural. That tendency was observed in all the summary, for
